@@ -1,6 +1,6 @@
 # Cam Points Monitoring
 
-<img src="snapshot.png">
+<img src="./snapshot.png">
 
 Set points interactively on camera view to monitor and evoke arduino pin out.
 
@@ -16,5 +16,5 @@ Set points interactively on camera view to monitor and evoke arduino pin out.
 <hr>
 
 <p align="center">
-<img src="desc.gif" style="border: 2px solid black;" width="400px">
+<img src="./desc.gif" style="border: 2px solid black;" width="400px">
 </p>
